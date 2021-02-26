@@ -1,0 +1,20 @@
+name: nlpbook
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - python=3.7
+  - tqdm
+  - matplotlib
+  - nltk
+  - jupyter
+  - notebook
+  - jupyterlab
+  - pandas
+  - python-annoy
+  - seaborn
+  - scipy
+  - numpy
+  - requests
